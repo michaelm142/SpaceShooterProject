@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SpawnObjectsTest.unity
+    guid: 73158d2cc7b12f344ae5734626f5c586
+  - enabled: 1
+    path: Assets/Scenes/SpeedTest.unity
+    guid: ba06f175f5a15f44394b8bf46933ab10
+  - enabled: 1
+    path: Assets/Scenes/ControlsTest.unity
+    guid: 082bda0889c64d2428d4b85e4a1434ae
+  - enabled: 0
+    path: Assets/Space Shooter Template FREE/Scenes/Demo_Scene.unity
+    guid: d31945966fedec24fa8cf028f485e539
+  m_configObjects: {}
